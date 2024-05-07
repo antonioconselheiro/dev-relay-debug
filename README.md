@@ -12,6 +12,8 @@ Nostr Debug in localhost can connect to other relays into your private network.
 
 ## How to run
 
+```git clone https://github.com/antonioconselheiro/dev-relay-debug```
+
 ```docker-compose -f dev-relay-debug/docker-compose.yml up```
 
 ## Dependencies
